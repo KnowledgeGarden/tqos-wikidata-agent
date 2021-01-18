@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!-- tqos-wikidata-agent core properties.
+	-->
+
+<properties>
+
+	<!-- Wikidata postgres -->
+	<parameter name="WDDatabaseName" value="wikidata" />
+	<parameter name="WDDatabaseSchema" value="tq_wikidata" />
+
+
+	
+
+</properties>
+

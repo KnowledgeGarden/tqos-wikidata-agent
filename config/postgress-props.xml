@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+
+<properties>
+
+	<!-- there will be a _library and _working wordgrams
+	<parameter name="GraphDatabaseName" value = "wikidata" />
+	<parameter name="GraphDatabaseSchema" value = "tq_wikidata" />
+	<parameter name="DatabaseName" value = "tqos_database" />
+	<parameter name="DatabaseSchema" value = "tqos_asr" />-->
+
+	<!-- URL for the server -->
+	<parameter name="DatabaseURL" value = "192.168.8.247" /> <!-- CHANGE ME -->
+	<parameter name="DatabasePort" value = "5432" />
+	<parameter name="DbUser" value = "tq_admin" />
+	<parameter name="DbPwd" value = "tq-admin-pwd" />
+	<parameter name="ClientCacheSize" value = "8192" />
+
+</properties>

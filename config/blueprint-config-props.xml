@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!-- tqos-text-reader properties
+	-->
+
+<properties>
+
+	<!--  this is dbName for the Graph db -->
+	<parameter name="GraphName" value="wordgrams" /> <!-- CHANGE ME -->
+	<!-- edge table -->
+	<parameter name="EdgeTable" value="tg_graph.edges" />
+	<!-- vertex table -->
+	<parameter name="VertexTable" value = "tq_graph.vertices" />
+	
+	
+
+</properties>
+
